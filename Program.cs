@@ -38,15 +38,12 @@
         double number1 = 12; 
         double number2 = 0; 
 
-
         try {
             double result = number1 / number2;
             Console.WriteLine($"The result of {number1} / {number2} is: {result}");
         } catch (DivideByZeroException) {
             Console.WriteLine("Error: Cannot devide by zero");
         }
-
-
     }
 
 
