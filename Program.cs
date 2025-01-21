@@ -2,13 +2,13 @@
 {
     private static void Main(string[] args)
     {
-        // Assigment1();
         // Assigment2();
         // Assigment3();
-        Assigment4();
+        // Assigment4();
+        Assigment5();
     }
 
-    static void Assigment1() {
+    static void Assigment2() {
         Console.Write("Enter your age: ");
 
         int.TryParse(Console.ReadLine(), out int age);
@@ -21,7 +21,7 @@
     }
 
 
-    static void Assigment2() {
+    static void Assigment3() {
         Console.Write("Enter index: ");
         int[] arr = new int[1000];
         int index = Convert.ToInt32(Console.ReadLine());
@@ -34,7 +34,7 @@
     }
 
 
-    static void Assigment3() {
+    static void Assigment4() {
         double number1 = 12; 
         double number2 = 0; 
 
@@ -50,7 +50,7 @@
     }
 
 
-    static void Assigment4() {
+    static void Assigment5() {
         Console.Write("Please enter the first number: ");
         bool isFirstValid = double.TryParse(Console.ReadLine(), out double first);
 
