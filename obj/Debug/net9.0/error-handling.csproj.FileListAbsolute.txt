@@ -1,0 +1,14 @@
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\bin\Debug\net9.0\error-handling.exe
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\bin\Debug\net9.0\error-handling.deps.json
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\bin\Debug\net9.0\error-handling.runtimeconfig.json
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\bin\Debug\net9.0\error-handling.dll
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\bin\Debug\net9.0\error-handling.pdb
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\error-handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\error-handling.AssemblyInfoInputs.cache
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\error-handling.AssemblyInfo.cs
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\error-handling.csproj.CoreCompileInputs.cache
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\error-handling.dll
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\refint\error-handling.dll
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\error-handling.pdb
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\error-handling.genruntimeconfig.cache
+C:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\error-handling\error-handling\obj\Debug\net9.0\ref\error-handling.dll
